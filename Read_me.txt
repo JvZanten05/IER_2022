@@ -8,8 +8,10 @@ The students were asked to wear a step-counting device for one week.
 Also, the students were asked to perform a physical activity self-evaluation.
 The data was then processed with the python file: Data_filterer. 
 Here are the Rows with a NaN in one of the columns excluded from the dataset.
-Also, the rows with NaN were soter for an easy extraction overview. 
-then statistical analysis was performed with SPSS 26.
+Also, the rows with NaN were soter for an easy extraction overview.
+in SPSS Only the independent smaple T-test was performed 
+This test was done with SPSS 26.
+the boxplots were generated using Excel.
 
 3. Data specific information
 The dataset includes:
